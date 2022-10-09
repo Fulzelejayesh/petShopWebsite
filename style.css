@@ -48,9 +48,12 @@ left: 33%;
 width: 250px;
 }
 .review1p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
     text-align: center;
     position: absolute;
-    bottom: 30px;
+    bottom: 20px;
     left: 32%;
 }
 .review1b{

@@ -1,4 +1,4 @@
 # Pet-shop-website
- This project has been developed by Pratyay Dhond
-Contact me -> dhondpratyay@gmail.com
-This is an open source contribuition and I certify that this is my own work and has not been taken from any individual or organisation with/without their consent.
+
+This project is open for open source contribuitions if anyone wants to.
+But make sure that the contribuitions are valueable and add value to the project otherwise the PRs will be deleted/ not accepted.
